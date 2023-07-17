@@ -15,7 +15,7 @@
   "scripts": {
     "dev": "next",
     "dev:watch": "next-remote-watch ./posts",
-    "build": "blurg",
+    "build": "next blurg",
     "start": "next start",
     "export": "next build && next export",
     "lint": "next lint"
